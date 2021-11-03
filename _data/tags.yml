@@ -1,0 +1,8 @@
+python:
+  name: python
+  description: False
+  cover: assets/built/images/sky.jpg  # 해당 tag 배경 이미지
+ai:
+  name: AI_ML/DL
+  description: False
+  cover: assets/built/images/sky.jpg

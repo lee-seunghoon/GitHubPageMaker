@@ -1,0 +1,10 @@
+sherlocky:          # 닉네임 (글 작성에 나오는 이름)
+  username: 셜로키   # 일반 이름
+  name: Sherlocky   # 풀네임
+  url_full:         # Homepage URL
+  url:
+  bio: <a href="https://github.com/lee-seunghoon">Sherlocky의 Github Link</a> # 나의 SNS 링크같은거 올려도 된다 / 회사 정보 등
+  picture: assets/built/images/sherlocky_logo.jpg    # author image
+  facebook:         # facebook ID
+  twitter:          # twitter ID
+  cover: False
